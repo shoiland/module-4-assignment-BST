@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="375c7b0e-03ae-4497-8e51-801316e0207c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../EdX/EdX.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW06/HW06.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW06/data/Appointments.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW06/data/Patients.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW07-linkedList/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW07-linkedList/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW07-linkedList/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW07-linkedList/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW07-linkedList/HW07-linkedList.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW07-linkedList/out/production/HW07-linkedList/LinkedList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW07-linkedList/out/production/HW07-linkedList/List.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW07-linkedList/out/production/HW07-linkedList/Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW07-linkedList/src/LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW07-linkedList/src/List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW07-linkedList/src/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java I Course Exam/Java I Course Exam.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaFX/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaFX/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaFX/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaFX/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaFX/JavaFX.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaFX/out/production/JavaFX/JavaFX.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaFX/src/JavaFX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Leetchallenges/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Leetchallenges/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Leetchallenges/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Leetchallenges/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Leetchallenges/Leetchallenges.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Leetchallenges/out/production/Leetchallenges/Challenges.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Leetchallenges/src/Challenges.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Leetchallenges/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculator/calculator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dataStructures/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dataStructures/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dataStructures/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dataStructures/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dataStructures/dataStructures.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dataStructures/out/production/dataStructures/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dataStructures/out/production/dataStructures/Rectangle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dataStructures/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dataStructures/src/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaIII/javaIII.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module-1-assignment-arraylist/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module-1-assignment-arraylist/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module-1-assignment-arraylist/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module-1-assignment-arraylist/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module-1-assignment-arraylist/module-1-assignment-arraylist.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module-1-assignment-arraylist/src/ArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module-1-assignment-arraylist/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module-2-assignment-SLL/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module-2-assignment-SLL/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module-2-assignment-SLL/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module-2-assignment-SLL/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module-2-assignment-SLL/module-2-assignment-SLL.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module-2-assignment-SLL/out/production/module-2-assignment-SLL/SinglyLinkedList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module-2-assignment-SLL/out/production/module-2-assignment-SLL/SinglyLinkedListNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module-2-assignment-SLL/src/SinglyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module-2-assignment-SLL/src/SinglyLinkedListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module-3-assignment-ABQ/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module-3-assignment-ABQ/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module-3-assignment-ABQ/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module-3-assignment-ABQ/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module-3-assignment-ABQ/module-3-assignment-ABQ.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module-3-assignment-ABQ/out/production/module-3-assignment-ABQ/ArrayQueue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module-3-assignment-ABQ/src/ArrayQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module-4-assignment-BST.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/module-4-assignment-BST/TreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Traversals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../outcomeinsight/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../outcomeinsight/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../outcomeinsight/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../outcomeinsight/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../outcomeinsight/outcomeinsight.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recursion/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recursion/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recursion/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recursion/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recursion/recursion.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recursion/src/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recursion/src/Recursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testenv/testenv.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tilingRecursion/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tilingRecursion/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tilingRecursion/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tilingRecursion/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tilingRecursion/out/production/tilingRecursion/CountTile.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tilingRecursion/out/production/tilingRecursion/Tile.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tilingRecursion/src/CountTile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tilingRecursion/src/Tile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tilingRecursion/tilingRecursion.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xerotoolmaven/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xerotoolmaven/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xerotoolmaven/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xerotoolmaven/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xerotoolmaven/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xerotoolmaven/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../tree-map.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2LQTuVCJu90qfaH0utz7OKe6zYN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Traversals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Traversals" />
+      <module name="module-4-assignment-BST" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Traversals" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="375c7b0e-03ae-4497-8e51-801316e0207c" name="Changes" comment="" />
+      <created>1675802531572</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1675802531572</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Traversals.java</url>
+          <line>116</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
